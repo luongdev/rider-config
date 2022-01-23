@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="ASP.NET Core Certificate Notifications" shouldLog="false" />
+    <notification groupId="editorconfig" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
+  </component>
+</application>
