@@ -1,6 +1,14 @@
 <application>
   <component name="Plugin-Config">
+    <option name="infoOnClick" value="false" />
+    <option name="preferredGenders" value="1" />
+    <option name="showMood" value="false" />
+    <option name="soundEnabled" value="false" />
     <option name="userId" value="0b4b5ffa-cb3a-4c22-901d-645d7a9363c4" />
     <option name="version" value="0.14.1" />
+  </component>
+  <component name="Rider-Config">
+    <option name="userId" value="06b09ddb-6373-4bad-aea8-2b10daff8449" />
+    <option name="version" value="0.5.1" />
   </component>
 </application>
