@@ -15,6 +15,7 @@
               <option value="System.Threading.Tasks.TaskCanceledException" />
               <option value="System.Threading.ThreadAbortException" />
               <option value="Microsoft.Data.SqlClient.SqlException" />
+              <option value="System.InvalidOperationException" />
             </list>
           </option>
           <option name="sshCredentials">
