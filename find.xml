@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Omicx.TenantRegistration.Web.Host'" />
-    <option name="defaultScopeName" value="Project 'Omicx.TenantRegistration.Web.Host'" />
-    <option name="SEARCH_SCOPE" value="Project 'Omicx.TenantRegistration.Web.Host'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
   </component>
 </application>
